@@ -22,9 +22,8 @@
 - [ ] Vitest
 
 ### list of architectural patterns
-> TODO's
-- [ ] CQRS
-- [ ] DDD
-- [ ] Event-driven architecture
-- [ ] MVC
-- [ ] Microservice architecture
+- CQRS
+- DDD
+- Event-driven Architecture
+- Microservice Architecture
+- Clean Architecture
