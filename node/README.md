@@ -6,14 +6,18 @@
 - [x] TypeScript 
 - [ ] Bun
 - [x] Nest.js
+- [ ] @nestjs/microservices
+- [x] @nestjs/graphql
+- [x] Fastify
 - [x] Prisma
 - [x] TypeORM
 - [ ] Drizzle ORM
-- [ ] RabbitMQ
-- [x] Nats/JetStream
-- [ ] gRPC
+- [x] GraphQL
 - [x] REST
-- [ ] GraphQL
+- [ ] gRPC
+- [ ] RabbitMQ
+- [ ] Kafka
+- [x] Nats/JetStream
 - [x] Jest
 - [ ] Vitest
 
